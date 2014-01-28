@@ -1,0 +1,14 @@
+/.bundle
+/db/*.sqlite3
+/log/*.log
+/tmp
+*.swp
+/pom.xml
+*jar
+/lib
+/classes
+/native
+/.lein-failures
+/checkouts
+/.lein-deps-sum
+/target
